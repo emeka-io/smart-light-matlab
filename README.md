@@ -9,7 +9,7 @@ See it in action here: [Link to my X post](https://x.com/EmekaBuilds_/status/204
 The core idea is simple: **To save energy.** The LED stays ON only when the environment is dark. However, I added "Human Control" using a physical button (manual override) for situations where you want the light off even in the dark (e.g., when watching a movie).
 
 ## Data Visualization
-To understand how the system "thinks," I used MATLAB to plot the raw data against a defined threshold.
+To understand how the system "thinks," I used MATLAB to plot the raw data against a defined threshold range: a dead band. 
 
 ### 1. Threshold Analysis (MATLAB)
 ![Threshold Visualization](assets/on-off-threshold.gif)
