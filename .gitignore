@@ -1,0 +1,21 @@
+# MATLAB generated files
+*.asv
+*.slxc
+*.mex*
+*.log
+*.mat
+*.fig
+slprj/
+_out/
+DerivedData/
+
+# Arduino/Embedded generated files
+*.elf
+*.hex
+*.bin
+build/
+int/
+
+# OS generated files
+.DS_Store
+Thumbs.db
