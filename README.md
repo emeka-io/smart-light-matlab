@@ -50,4 +50,4 @@ Building this project taught me that real-world light levels are never a constan
 - `/info/schematic.png`: Circuit Diagram for the project.
 
 ---
-*Developed by Emeka | Mechatronics Engineering Student | April 2026*
+*Built and documented by Chukwuemeka Ifeanyi | Mechatronics Engineering Student | April 2026*
