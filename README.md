@@ -44,7 +44,7 @@ Building this project taught me that real-world light levels are never a constan
 
 ## Repository Structure
 - `/src/arduino`: Embedded C++ code for the Arduino UNO.
-- `/src/matlab`: `.m` scripts for real-time plotting.
+- `/src/matlab`: `.m` scripts for real-time plotting using MATLAB.
 - `/assets`: GIFs and images for documentation.
 - `/info/bill_of_materials.md`: Full list of hardware parts.
 - `/info/schematic.png`: Circuit Diagram for the project.
