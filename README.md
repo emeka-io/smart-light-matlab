@@ -38,15 +38,15 @@ To bring this project to life, I designed a voltage divider circuit to translate
 ## Engineering Insights
 Building this project taught me that real-world light levels are never a constant value; they change within milliseconds. 
 
-**Challenges Overcome:**
+**Challenges I Faced While Building:**
 - **Patience with Wiring:** Sometimes the code is perfect, but a loose jumper wire makes the system fail. Constant tweaking was required to get a clean signal.
-- **Data Noise:** Millisecond fluctuations can cause "flickering." Visualizing the data helped me set a stable threshold to prevent this.
+- **Data Noise:** Millisecond fluctuations can cause "flickering." Visualizing the data helped me set a stable threshold range to prevent this.
 
 ## Repository Structure
 - `/src/arduino`: Embedded C++ code for the Arduino UNO.
 - `/src/matlab`: `.m` scripts for real-time plotting using MATLAB.
 - `/assets`: GIFs and images for documentation.
-- `/info/bill_of_materials.md`: Full list of hardware parts.
+- `/info/bill_of_materials.md`: Full list of the hardware components and software tools used.
 - `/info/schematic.png`: Circuit Diagram for the project.
 
 ---
