@@ -13,7 +13,7 @@ To understand how the system "thinks," I used MATLAB to plot the raw data agains
 
 ### 1. Threshold Analysis (MATLAB)
 ![Threshold Visualization](assets/on-off-threshold.gif)
-*This graph shows the LDR value against runtime. Using my threshold range as a reference, the **Red Dashed Line** represents my 'ON Threshold' while the **Green Dashed Line** represents my 'OFF Threshold'. When the white line (current light level) crosses these thresholds, the system triggers the LED state change.*
+*This graph plots the LDR value against runtime. Using my threshold range as a reference, the **Red Dashed Line** represents my 'ON Threshold' while the **Green Dashed Line** represents my 'OFF Threshold'. When the white line (current light level) crosses these thresholds, the system triggers the LED state change.*
 
 ### 2. Embedded Logic (Raw data from the Serial Monitor)
 ![Serial Monitor Logic](assets/raw-data-from-arduino.gif)
