@@ -1,6 +1,6 @@
 # Smart Light System: Real-Time Data Visualization Using MATLAB
 
-This is an energy-efficient smart lighting project that uses a photoresistor (LDR) to automate LED states. This project bridges hardware and software by using **MATLAB** to visualize millisecond light fluctuations and **Arduino** for embedded control.
+This is an energy-efficient smart light project that uses a photoresistor (LDR) to automate LED states. This project bridges hardware and software by using **MATLAB** to visualize millisecond light fluctuations and **Arduino** for embedded control.
 
 ## Live Demo
 See it in action here: [Link to my X post](https://x.com/EmekaBuilds_/status/2046893422976348191?s=20)
